@@ -3,7 +3,7 @@ node_modules/
 uploads/
 
 # Environment configuration files
-.env
+# .env
 .env.local
 .env.development.local
 .env.test.local
